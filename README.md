@@ -1,2 +1,2 @@
 # Pose-Estimation-Mediapipe
-32 body landmark detection using Mediapipe library. 
+33 body landmark real-time detection using Mediapipe library. 
